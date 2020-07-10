@@ -14,4 +14,5 @@ clone or download the repo
 ```
    cd Frontend 
    npm start web
+   open localhost:3000 on your browser
 ```
