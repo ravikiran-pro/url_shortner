@@ -1,0 +1,44 @@
+.view{
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+	background-color: orange;
+}
+#loader:hover{opacity: 0.5;}
+#clip:hover{cursor: pointer;}
+#Urlinput{
+	width: 50%;
+}
+.lists{
+
+	margin-top: 20px;
+	background-color: red;
+}
+.error{
+	color: red;
+	font-size: 12px;
+}
+#Urlinput,#loader{
+	height: 2.5em;
+	border-radius: 5px;
+}
+#loader,#loader:focus{
+	background-color: #7293B1;
+	color: #030C14;
+	border: none;
+}
+.list{
+	background-color: green;
+
+}
+#clip{
+	width: 20px;
+	height: 20px;
+}
+sup{
+	background-color: orange;
+	color: red;
+}
+table{
+	text-align: center;
+}
